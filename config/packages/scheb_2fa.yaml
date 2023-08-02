@@ -1,0 +1,4 @@
+# config/packages/scheb_2fa.yaml
+scheb_two_factor:
+    google:
+        enabled: true
